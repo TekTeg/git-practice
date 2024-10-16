@@ -4,3 +4,4 @@ This is my first practice on Git.
 # Failure Reasons
 - May be it is dead
 - May be it is alive
+Does this detect new updates
